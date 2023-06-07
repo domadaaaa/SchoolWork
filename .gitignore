@@ -153,7 +153,7 @@ dmypy.json
 cython_debug/
 
 # My file
-/深度学习报告代码/gender_dataset/ignore/
+/gender_dataset/ignore/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
