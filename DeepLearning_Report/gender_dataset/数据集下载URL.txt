@@ -1,0 +1,11 @@
+由于数据集占用较多空间，因此没有上传数据集，需要可以自行下载：
+https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset?resource=download
+
+#------------------文件夹位置示意-------------------#
+-gender_dataset
+	-Training
+		-female
+		-male
+	-Validation
+		-female
+		-male
