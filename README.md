@@ -3,7 +3,7 @@
 测试图片可以在img_ceshi文件夹下找到,测试视频可以在video_ceshi文件夹下找到  
 ![](https://github.com/domadaaaa/SchoolWork/blob/master/深度学习报告代码/img_ceshi/ikun.jpg)  
 # ---------图片示例---------- #
-进入Terminal，运行以下指令：
+进入Terminal，cd进入DeepLearning_Report，运行以下指令：
 ```
 pip install -r requirements.txt
 ```
@@ -15,7 +15,7 @@ ikun.jpg
 ```
   
 # ---------视频示例---------- #
-进入Terminal，运行以下指令：
+进入Terminal，cd进入DeepLearning_Report，运行以下指令：
 ```
 pip install -r requirements.txt
 ```
