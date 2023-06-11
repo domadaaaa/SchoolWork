@@ -22,4 +22,16 @@ pip install -r requirements.txt
 ```
 python Video_detect.py
 ```
-tips:视频默认为电脑摄像头，如果需要检测视频，请修改对应模式和文件路径
+tips:  
+1.视频默认为电脑摄像头，如果需要检测视频，请修改对应模式和文件路径  
+2.想要训练先要下载对应的数据集到gender_dataset文件夹内（文件结构如下图所示）  
+```
+gender_dataset  
+  ---Training
+    ------A
+    ------B
+  ---Validation
+    ------A
+    ------B
+```
+
